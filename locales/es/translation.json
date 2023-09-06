@@ -1,0 +1,14 @@
+{
+  "listener": {
+    "submitAction": {
+      "label": "Enviar datos en otro lugar",
+      "desc": "Envíe estos datos a un webhook."
+    },
+    "job": {
+      "ready": "Empezando trabajo",
+      "inProgress": "Trabajo continuo",
+      "complete": "Este trabajo completado.",
+      "failed": "Este trabajo fracasó."
+    }
+  }
+}
